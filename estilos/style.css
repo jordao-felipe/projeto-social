@@ -15,8 +15,7 @@ body{
 }
 main{
     height: 100vw;
-    
-    position: relative;
+        
 }
 section#telefone{
     position: absolute;
